@@ -1,8 +1,9 @@
 ### Computer Architecture Gem5 Project
-
-> **Zervos Ioannis:** 2017030036
-> **Voulgari Kallirroi:** 2018030107
+ 
+> **Zervos Ioannis:** 2017030036  
+> **Voulgari Kallirroi:** 2018030107  
 > **Team:** 11
+
 **Introduction**
 The final project of Computer Architecture course required the installation of a simulation system, Gem5. Gem5 supports two basic simulation modes, System call Emulation and Full System. At this project, SE will be used, as only the processor and the memory subsystems is needed.
 
